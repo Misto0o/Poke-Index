@@ -1,0 +1,16 @@
+# PokeAPI
+
+Simple PokeAPI project providing Pokémon data endpoints for learning and small projects.
+
+## Features
+- REST API for Pokémon resources (pokemon, abilities, types, etc.)
+- Lightweight and easy to run locally
+- Example routes and basic error handling
+
+## Quick Start
+
+Prerequisites:
+- Node.js (14+) or your preferred runtime
+- npm or yarn
+
+Install:
